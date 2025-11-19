@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+muse_spotify_env/
+
+# Package installers
+.eggs/
+*.egg-info/
+dist/
+build/
+
+# Notebooks
+.ipynb_checkpoints
+test_analysis.ipynb
+
+# Data and logs
+recordings/
+*.log
+debug/
+
+# Config
+.env
+muse_spotify_recorder/.env
+lsl_api.cfg
+
+# Cache and generated files
+.cache/
+.cache
+**digest.txt
+
+# IDE / Editor
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Directories
+workbench/
+
+# DS Store
+**/.DS_Store
+**/.AppleDouble
+**/.LSOverride
