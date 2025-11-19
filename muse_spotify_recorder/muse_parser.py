@@ -11,7 +11,7 @@ Accelerometer data: int16 samples, converted to g (gravitational acceleration)
 Gyroscope data: int16 samples, converted to deg/s (degrees per second)
 """
 
-from typing import Tuple, List
+from typing import Tuple
 import numpy as np
 import bitstring
 
