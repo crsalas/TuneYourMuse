@@ -16,7 +16,6 @@ from .muse_constants import (
     EEG_AF7_UUID,
     EEG_AF8_UUID,
     EEG_TP10_UUID,
-    EEG_CHANNEL_UUIDS,
     ACCELEROMETER_UUID,
     GYROSCOPE_UUID,
 )
