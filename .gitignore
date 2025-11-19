@@ -39,3 +39,6 @@ muse_spotify_recorder/digest.txt
 .vscode/
 *.sublime-project
 *.sublime-workspace
+
+# Directories
+workbench/
