@@ -21,6 +21,7 @@ test_analysis.ipynb
 # Data and logs
 recordings/
 *.log
+debug/
 
 # Config
 .env
