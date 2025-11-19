@@ -31,8 +31,7 @@ lsl_api.cfg
 # Cache and generated files
 .cache/
 .cache
-digest.txt
-muse_spotify_recorder/digest.txt
+**digest.txt
 
 # IDE / Editor
 .idea/
@@ -42,3 +41,8 @@ muse_spotify_recorder/digest.txt
 
 # Directories
 workbench/
+
+# DS Store
+**/.DS_Store
+**/.AppleDouble
+**/.LSOverride
