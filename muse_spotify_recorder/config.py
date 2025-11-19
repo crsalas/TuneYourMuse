@@ -9,7 +9,7 @@ from rich.console import Console
 console = Console()
 
 # LSL stream types we care about
-# Note: PPG removed assome Muse headsets don't have PPG sensors
+# Note: PPG removed as some Muse headsets don't have PPG sensors
 LSL_TYPES: List[str] = ["EEG", "ACC", "GYRO"]
 
 MUSE_NAME = os.getenv("MUSE_NAME")
