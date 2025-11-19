@@ -5,7 +5,7 @@ to the Lab Streaming Layer network. Other applications can discover and subscrib
 to these streams for real-time data processing and recording.
 """
 
-from typing import Optional, List
+from typing import Optional
 import numpy as np
 import pylsl
 from rich.console import Console
